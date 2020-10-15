@@ -3,6 +3,8 @@ name = "gato-stdout-logger"
 version = "0.5.0"
 authors = ["Pedro Soares <contato@pedrosoares.net>"]
 edition = "2018"
+description = "Driver to log direct to stdout/stderr of Gato Web Framework"
+license = "MIT"
 
 [dependencies]
 gato-core = "0.5.2"
