@@ -1,0 +1,9 @@
+[package]
+name = "gato-stdout-logger"
+version = "0.5.0"
+authors = ["Pedro Soares <contato@pedrosoares.net>"]
+edition = "2018"
+
+[dependencies]
+gato-core = "0.5.2"
+chrono = "0.4"
